@@ -1,0 +1,23 @@
+# Verko
+
+> Verko is a video editor and motion designer. This is Verko's portfolio: selected reels, kinetic typography, UI and app motion, and product callouts.
+
+## Work
+- [Everything in One Place](https://www.instagram.com/reel/DXRaubCDVdt/): kinetic text
+- [Anytime.](https://www.instagram.com/reel/DXwwWVitb6l/): gradient and type
+- [Reservation Confirmed](https://www.instagram.com/reel/DYTt5kftd4m/): text and UI reveal
+- [Let’s Work Together](https://www.instagram.com/reel/DXTYIhejXve/): prompt bar and UI motion
+- [Hero Sensor Callouts](https://www.instagram.com/reel/DgB_rb5A04J/): product tracking and callouts
+- [Not “Automation”](https://www.instagram.com/reel/DZ2NHD7t6Wx/): icon callouts
+
+## Services
+- Video editing: reels, short-form and promos
+- Motion graphics: kinetic typography, logo and title animation, UI and app motion
+
+## Tools
+Alight Motion, Keyflow, Ibis Paint X, PicsArt
+
+## Contact
+- [Instagram @verko.motion](https://www.instagram.com/verko.motion/)
+- [X @Verko_3](https://x.com/Verko_3)
+- [Discord](https://discord.gg/z9RjxWcT)
